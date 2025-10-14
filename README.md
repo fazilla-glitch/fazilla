@@ -2,7 +2,8 @@
 HTML Bootstrap
 
 ## Overview
-This project was my first time learning how to make a website using HTML, CSS and JS. 
+This project was my first time learning how to make a simple website using HTML, CSS and JS. 
+
 ## Features
 - Navbar
 - Picture
